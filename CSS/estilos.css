@@ -1,8 +1,30 @@
-.card .hovercard {
+.card.hovercard {
   position: relative;
   padding-top: 0;
   overflow: hidden;
   text-align: center;
-  background-color: rgba(214, 224, 226, 0.2); }
+  background-color: rgba(214, 224, 226, 0.2);
+}
 
-/*# sourceMappingURL=estilos.css.map */
+.card.hovercard .cardheader {
+  background-image: url(../Imagenes/for-honor-1920x1080-playstation-4-xbox-one-pc-4k-8k-14138.jpg);
+  background-size: cover;
+  height: 135px;
+}
+
+.card.hovercard .avatar {
+  position: relative;
+  top: -50px;
+  margin-bottom: -50px;
+}
+
+.card.hovercard .avatar img {
+  width: 100px;
+  height: 100px;
+  max-width: 100px;
+  max-height: 100px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  border: 5px solid rgba(255,255,255,0.5);
+}
