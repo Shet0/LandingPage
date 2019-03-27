@@ -1,0 +1,53 @@
+.contacto{
+    background: url("../img/SofaTrueque02.jpg" ) no-repeat center center;
+    background-attachment: fixed;
+    p{
+        padding: 200px 10px;
+        color: white;
+        font-size: 30px;
+    }
+}
+
+
+=================================
+
+ <!-- Contacto -->
+    <div class="container-fluid">
+        <div class="container mt-5 contacto">
+            <div class="row">
+                <div class="col-md-12">
+                        <p class="text-center">Informes al siguiente correo electronico
+                                <span class="naranja">horsetradeinformes@horsetrade.com
+
+                                </span>
+                        </p>
+                        
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+    <!-- Fin de Contacto -->
+
+    <div class="container">
+        <div class="footer">
+            <div class="row">
+                <div class="col-md-6 mb-5" >
+                    <p>Horse - Trade 2019 Todos los derechos reservados</p>
+                    <br>
+                    Desarrollado por
+                    <span class="naranja">@Neil.com</span>
+                </div>
+                <div class="col-md-6">
+                    <div class="text-righ">
+                        <P>
+                                <i class="fas fa-horse-head fa-2x mr-4 naranja"></i>
+                                <i class="fas fa-warehouse fa-2x mr-4 naranja"></i>
+                            <i class="fab fa-html5 fa-2x mr-4 naranja"></i>
+                        </P>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
