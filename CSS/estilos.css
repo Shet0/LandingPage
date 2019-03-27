@@ -7,7 +7,7 @@
 }
 
 .card.hovercard .cardheader {
-  background-image: url(../Imagenes/for-honor-1920x1080-playstation-4-xbox-one-pc-4k-8k-14138.jpg);
+  background-image: url(../Imagenes/horse-trading.jpg);
   background-size: cover;
   height: 135px;
 }
@@ -27,4 +27,22 @@
   -moz-border-radius: 50%;
   border-radius: 50%;
   border: 5px solid rgba(255,255,255,0.5);
+}
+
+
+.naranja {
+  color: turquoise; }
+
+.texto-grande {
+  font-size: 1.3rem; }
+
+.contacto{
+  background: url("../img/SofaTrueque02.jpg" ) no-repeat center center;
+  background-attachment: fixed;
+}
+.contacto p
+{
+  padding: 200px 10px;
+  color: white;
+  font-size: 30px;
 }
